@@ -14,6 +14,8 @@
         android:layout_height="match_parent"
         android:layout_margin="@dimen/text_margin"
         android:hint="@string/enter_note"
-        android:inputType="textMultiLine|textCapSentences"/>
+        android:inputType="textMultiLine|textCapSentences"
+        android:text="@string/action_add_sample_data"
+        tools:text="@string/action_add_sample_data" />
 
 </android.support.v4.widget.NestedScrollView>
